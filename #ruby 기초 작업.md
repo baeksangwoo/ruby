@@ -1,4 +1,4 @@
-# #ruby 챗봇 만들기
+# #ruby 
 
 rb.likelion.io에서 챗봇 만들기
 
