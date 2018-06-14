@@ -1,0 +1,14 @@
+#header {
+  height: 500px;
+  background-image: url("http://www.city.kr/files/attach/images/1326/542/186/010/9bbd68054422876eb730b296963d0e82.jpg");
+  background-size: cover;
+}
+
+.header_text{
+  height: 500px;
+}
+
+hr {
+  width: 60px;
+  border-top: 3px solid rgba(255, 193, 7, 0.8);
+}
